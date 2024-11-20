@@ -611,6 +611,10 @@ video {
   width: 100%;
 }
 
+.w-9 {
+  width: 2.25rem;
+}
+
 .min-w-96 {
   min-width: 24rem;
 }
@@ -797,6 +801,10 @@ video {
 
 .ease-in-out {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.\[w\:R\FFFD-\] {
+  w: R�-;
 }
 
 .hover\:bg-red-500:hover {
